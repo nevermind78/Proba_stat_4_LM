@@ -1,5 +1,5 @@
 # Proba_stat_4_LM
-# Courses <img src="https://assets.datacamp.com/production/course_14568/shields/original/shield_image_course_14568_20190509-1-6ozs25?1557431725" width=48 height=48 alt="MD">
+# Courses <img src="https://assets.datacamp.com/production/course_14568/shields/original/shield_image_course_14568_20190509-1-6ozs25?1557431725" width=65 height=65 alt="MD">
 
 > Write courses in Markdown and publish them as HTML slides.
 
