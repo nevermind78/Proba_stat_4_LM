@@ -1,5 +1,5 @@
 # Proba_stat_4_LM
-# Courses <img src="https://cdn.rawgit.com/dcurtis/markdown-mark/10a241f3/svg/markdown-mark.svg" width=48.75 height=30 alt="PROBABILITY AND STAT">
+# Courses <img src="https://assets.datacamp.com/production/course_14568/shields/original/shield_image_course_14568_20190509-1-6ozs25?1557431725" width=48.75 height=30 alt="PROBABILITY AND STAT">
 
 > Write courses in Markdown and publish them as HTML slides.
 
