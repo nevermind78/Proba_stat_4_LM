@@ -3,7 +3,7 @@
 
 > It's commonly said that data scientists spend 80% of their time cleaning and manipulating data and only 20% of their time analyzing it. The time spent cleaning is vital since analyzing dirty data can lead you to draw inaccurate conclusions. Data cleaning is an essential task in data science. Without properly cleaned data, the results of any data analysis or machine learning model could be inaccurate. In this course, you will learn how to identify, diagnose, and treat a variety of data cleaning problems in Python, ranging from simple to advanced. You will deal with improper data types, check that your data is in the correct range, handle missing data, perform record linkage, and more!
 
-[![npm version](https://badge.fury.io/js/courses-md.svg)](https://badge.fury.io/js/courses-md)
+[![Anaconda version](https://sal.as/images/installing-anaconda-on-wls/anaconda_horizontal.png](https://badge.fury.io/js/courses-md)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
