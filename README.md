@@ -1,7 +1,7 @@
 # Proba_stat_4_LM
-# Courses <img src="https://assets.datacamp.com/production/course_14568/shields/original/shield_image_course_14568_20190509-1-6ozs25?1557431725" width=100 height=100 alt="MD">
+# Courses <img src="https://learn.datacamp.com/courses/cleaning-data-in-python" width=100 height=100 alt="MD">
 
-> Probability is the study of regularities that emerge in the outcomes of random experiments. In this course, you'll learn about fundamental probability concepts like random variables (starting with the classic coin flip example) and how to calculate mean and variance, probability distributions, and conditional probability. We'll also explore two very important results in probability: the law of large numbers and the central limit theorem. Since probability is at the core of data science and machine learning, these concepts will help you understand and apply models more robustly. Chances are everywhere, and the study of probability will change the way you see the world. Let’s get random!.
+> It's commonly said that data scientists spend 80% of their time cleaning and manipulating data and only 20% of their time analyzing it. The time spent cleaning is vital since analyzing dirty data can lead you to draw inaccurate conclusions. Data cleaning is an essential task in data science. Without properly cleaned data, the results of any data analysis or machine learning model could be inaccurate. In this course, you will learn how to identify, diagnose, and treat a variety of data cleaning problems in Python, ranging from simple to advanced. You will deal with improper data types, check that your data is in the correct range, handle missing data, perform record linkage, and more!
 
 [![npm version](https://badge.fury.io/js/courses-md.svg)](https://badge.fury.io/js/courses-md)
 
