@@ -1,5 +1,5 @@
 # Proba_stat_SIMULATION
-# IntroductionToProbabilityPy
+# Introduction To ProbabilityPy and statistics
 
 
 ## Requirements
@@ -47,21 +47,5 @@ These notebooks have been confirmed to run on:
 
 _Internet Explorer is not recommended!_
 
-## View these notebooks on NBViewer
-
-* [Ch1](http://bit.ly/2zSHKBP) - Probability and Counting: Vectors; Factorials and binomial coefficients; Sampling and simulation; Matching problem simulation; Birthday problem calculation and simulation
-* [Ch2](http://bit.ly/2pTq8QG) - Conditional Probability: Simulating the frequentist interpretation; Monty Hall simulation
-* [Ch3](http://bit.ly/2pYpXU7) - Random Variables and their Distributions: Distributions in SciPy; Binomial distribution; Hypergeometric distribution; Discrete distributions with finite support 
-* [Ch4](http://bit.ly/2yFDNzu) - Expectation: Geometric, Negative Binomial, and Poisson; Matching simulation; Distinct birthdays simulation
-* [Ch5](http://bit.ly/2qWXlLp) - Continuous Random Variables: Uniform, Normal and Exponential distributions; Plots in Matplotlib; Universality with Logistic; Poisson process simulation 
-* [Ch6](http://bit.ly/2zVZQT0) - Moments: Functions; Moments; Medians and modes; Dice simulation
-* [Ch7](http://bit.ly/2zYpG9f) - Joint Distributions: Multinomial; Multivariate Normal; Cauchy
-* [Ch8](http://bit.ly/2Eu3rvp) - Transformations: Beta and Gamma distributions; Convolution of Uniforms; Bayes' billiards; Simulating order statistics
-* [Ch9](http://bit.ly/2LgIHIg) - Conditional Expectation: Mystery prize simulation; Time until HH vs. HT; Linear regression 
-* [Ch10](http://bit.ly/2Ghzz7x) - Inequalities and Limit Theorems: Jensen's inequality; Visualization of the law of large numbers; Monte Carlo estimate of &pi;; Visualizations of the central limit theorem; Chi-Square and Student-<i>t</i> distributions
-* [Ch11](http://bit.ly/2EBtiSz) - Markov Chains: Matrix calculations; Gambler's ruin; Simulating from a finite-state Markov chain 
-* [Ch12](http://bit.ly/2LmpPYk) - Markov Chain Monte Carlo: Metropolis-Hastings; Gibbs
-* [Ch13](http://bit.ly/2S7t1tr) - Poisson Processes: 1D Poisson process; Thinning; 2D Poisson process 
-* [Appendix B](http://bit.ly/2I00c1x) - Python / NumPy / SciPy
 
 
