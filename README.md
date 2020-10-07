@@ -29,7 +29,8 @@
   ![Ch 10 interactive visualization for CLR](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/clr_visualization.png)
 
 
-## Executing these notebooks locally
+## Exécution des notebooks localement :
+
 Après avoir installé Python et Jupyter, accédez au répertoire de base de ce projet dans lequel ces blocs-notes sont enregistrés, ouvrez une fenêtre de commande ou une interface shell et tapez la commande suivante:
 
      jupyter notebook
