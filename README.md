@@ -26,7 +26,7 @@
 
 * [D3.js](https://d3js.org/) (v5.7.0) on the [Google Hosted Libraries content delivery network](https://developers.google.com/speed/libraries/#d3js) referenced from the interactive visualization for the Central Limit Theorem.
 
-  ![Interactive visualization for CLR](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/clr_visualization.png)
+  ![Interactive visualization for CLR](https://github.com/nevermind78/Proba_stat_4_LM/blob/master/CH0/clr_visualization.png)
 
 
 ## Exécution des notebooks localement :
