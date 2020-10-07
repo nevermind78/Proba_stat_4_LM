@@ -30,22 +30,22 @@
 
 
 ## Executing these notebooks locally
-After installing Python and Jupyter, navigate to this project's home directory where these notebooks are saved, open up a command window or shell interface, and type the following command:
+Après avoir installé Python et Jupyter, accédez au répertoire de base de ce projet dans lequel ces blocs-notes sont enregistrés, ouvrez une fenêtre de commande ou une interface shell et tapez la commande suivante:
 
      jupyter notebook
 
-Your default browser will open up to show the Notebook Dashboard at `http://localhost:8888`.
+Votre navigateur par défaut s'ouvrira pour afficher le tableau de bord du notebook à l'adresse `http: // localhost: 8888`.
 
 [MathJax](https://www.mathjax.org/#gettingstarted) is the JavaScript library Jupyter uses to render ![LaTeX](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/LaTeX.png). To ensure that you have the absolute, latest version of MathJax rendering the math in your locally-executed notebooks, set the `NotebookApp.enable_mathjax` configuration parameter in `jupyter_notebook_config.py` to point to the newest available MathJax.js version on [cdnjs](https://cdnjs.com/libraries/mathjax). (c.f. [Config file and command line options](https://jupyter-notebook.readthedocs.io/en/stable/config.html), Jupyter docs).
 
-These notebooks have been confirmed to run on:
+Les  notebooks s'éxécutent parfaitement sur :
 
 * Chrome 71.0.3578.98 (official build), 64-bit and Firefox 64.0, 64-bit on Windows 10
 * Chrome 69.0.3497.100 (official build, 64-bit and Firefox 52.8.0, 64-bit on Windows 7
 * Chrome 71.0.3578.98 (official build), 64-bit; Firefox 64.0 (64-bit); and Safari 12.0.2 (13606.3.4.1.4) on macOS (High Sierra, v10.13.6)
 
 
-_Internet Explorer is not recommended!_
+_Internet Explorer n'est pas recommandé !_
 
 
 
