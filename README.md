@@ -20,7 +20,7 @@
 * [Matplotlib](https://matplotlib.org/index.html) (v2.1.0)
 * [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) (v7.4.2) ... interactive game pour le jeux de  Monty Hall problem 
   
-  ![Interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/monty_widget.png)
+  ![Interactive widget for Monty Hall problem](https://github.com/nevermind78/Proba_stat_4_LM/blob/master/CH0/monty_widget.png)
 
 #### Autres dépendences
 
