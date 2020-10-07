@@ -20,13 +20,13 @@
 * [Matplotlib](https://matplotlib.org/index.html) (v2.1.0)
 * [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) (v7.4.2) ... interactive game pour le jeux de  Monty Hall problem 
   
-  ![Ch 2 interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/monty_widget.png)
+  ![Interactive widget for Monty Hall problem](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/monty_widget.png)
 
 #### Autres dépendences
 
 * [D3.js](https://d3js.org/) (v5.7.0) on the [Google Hosted Libraries content delivery network](https://developers.google.com/speed/libraries/#d3js) referenced from the interactive visualization for the Central Limit Theorem.
 
-  ![Ch 10 interactive visualization for CLR](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/clr_visualization.png)
+  ![Interactive visualization for CLR](https://github.com/buruzaemon/IntroductionToProbabilityPy/blob/master/assets/clr_visualization.png)
 
 
 ## Exécution des notebooks localement :
