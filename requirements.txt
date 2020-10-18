@@ -18,5 +18,6 @@ pytz==2020.1              # via pandas
 scipy              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
-ipywidgets==7.4.2 
+ipywidgets==7.4.2
+matplotlib-venn==0.11.5
 
