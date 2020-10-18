@@ -18,3 +18,8 @@ seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 ipywidgets==7.4.2
 SciPy==0.19.1
+itertools
+string
+math 
+numpy 
+os
