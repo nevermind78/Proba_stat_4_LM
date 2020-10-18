@@ -18,8 +18,5 @@ pytz==2020.1              # via pandas
 scipy              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
-ipywidgets==7.4.2
-itertools
-string
-math 
+ipywidgets==7.4.2 
 os
