@@ -47,5 +47,6 @@ Les  notebooks s'éxécutent parfaitement sur :
 
 _Internet Explorer n'est pas recommandé !_
 
-
+## Recommended Book 
+[Joseph K. Blitzstein, Jessica Hwang-Introduction to Probability ](https://github.com/nevermind78/Proba_stat_4_LM/blob/master/CH0/Joseph%20K.%20Blitzstein%2C%20Jessica%20Hwang-Introduction%20to%20Probability.pdf)
 
