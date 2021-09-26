@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Proba_stat_4_LM/master)
 ## Requirements
 
-#### Jupyter notebooks est compatible avec ces versions de python:
+#### Jupyter notebooks est compatible avec ces versions de python:[Introduction to jupyter](https://notebooks.gesis.org/binder/jupyter/user/ipython-ipython-in-depth-isr2sxa2/doc/tree/examples/Notebook/Notebook%20Basics.ipynb)
 
 * [Python 3.5](https://docs.python.org/3.5/whatsnew/3.5.html)
 * [Python 3.6](https://docs.python.org/3.6/whatsnew/3.6.html)
