@@ -6,6 +6,7 @@
 #### Jupyter notebooks est compatible avec ces versions de python: 
 #### Introduction to jupyter
 [![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/ipython/ipython-in-depth/7e5ce96cc9251083979efdfc393425f1229a4a68?filepath=binder%2FIndex.ipynb)
+#### [Binder user guide](https://mybinder.readthedocs.io/en/latest/introduction.html)
 
 * [Python 3.5](https://docs.python.org/3.5/whatsnew/3.5.html)
 * [Python 3.6](https://docs.python.org/3.6/whatsnew/3.6.html)
