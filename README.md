@@ -2,19 +2,31 @@
 
 -----------------------VSCODE------------------------
 ## Télécharger anaconda
+
 https://www.anaconda.com/products/distribution
+
 installer anaconda
+
 ajouter anaconda au path cocher OUI
 
 https://github.com/nevermind78/Proba_stat_4_LM
+
 ==> Code
+
 download Zip
+
 décomprreser les fichier survotre PC
+
 lancer vscode et ouvrir le fichier décompréssé
+
 aller sur extesion du vs code
+
 ajouter jupyter
+
 -------------------------CLOUD--------------------------
+
 ## Binder
+
 https://github.com/nevermind78/Proba_stat_4_LM
 
 cliquer sur lauch ( premier lien)
